@@ -1,0 +1,2 @@
+C:\Users\petem\source\repos\cSharp\SchoolTracker\obj\x86\Debug\SchoolTrackerAdvanced.csprojAssemblyReference.cache
+C:\Users\petem\source\repos\cSharp\SchoolTracker\obj\x86\Debug\SchoolTrackerAdvanced.csproj.CoreCompileInputs.cache

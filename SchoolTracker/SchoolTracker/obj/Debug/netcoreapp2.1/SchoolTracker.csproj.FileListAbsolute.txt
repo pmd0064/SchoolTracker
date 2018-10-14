@@ -1,0 +1,11 @@
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp2.1\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp2.1\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp2.1\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp2.1\SchoolTracker.AssemblyInfo.cs
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp2.1\SchoolTracker.deps.json
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp2.1\SchoolTracker.runtimeconfig.json
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp2.1\SchoolTracker.runtimeconfig.dev.json
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp2.1\SchoolTracker.dll
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp2.1\SchoolTracker.pdb
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp2.1\SchoolTracker.dll
+C:\Users\petem\source\repos\cSharp\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp2.1\SchoolTracker.pdb
